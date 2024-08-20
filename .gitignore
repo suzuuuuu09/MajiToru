@@ -163,3 +163,4 @@ cython_debug/
 
 # img_data
 img/**
+!img/.gitkeep
